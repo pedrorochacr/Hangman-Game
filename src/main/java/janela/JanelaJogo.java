@@ -1,9 +1,4 @@
-/*
-Nome: Pedro Henrique Rocha de Castro e Thiago Rodrigues Valentim
-Matricula: 
-20213004828(Pedro)
-20203015926(Thiago)
- */
+
 package janela;
 
 import codigo.Forca;
