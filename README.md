@@ -1,2 +1,2 @@
-# jogoDaForca
-Jogo da Forca desenvolvido em Java, o qual lê de um arquivo texto as palavras-respostas.
+# Hangman Game
+This is a simple hangman game, developed in Java using GUI interface in NetBeans.
